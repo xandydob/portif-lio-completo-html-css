@@ -8,7 +8,6 @@
   <img src="https://res.cloudinary.com/ddi5agea1/image/upload/v1611672227/Blog%20Assets/web1_cygzgd.gif" width="500" />
 </div>
 
-[Clique aqui para ver o resultado final](https://sitefernandostadler.netlify.app/)
 
 _Projeto desenvolvido para o terceiro Challenge do Bootcamp Alura e Oracle._
 
